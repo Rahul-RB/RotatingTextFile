@@ -9,7 +9,7 @@ A rotating file handler which rotates when YOU want it to, rather than based on 
 - This module aims to solve cases of code where outputs were just being dumped into some file and over time the code grew so big that rotating the text file was needed without distrubing/refactoring the entire codebase.
 
 ### Installation
-`coming soon on pip`
+`pip install RotatingTextFile`
 
 ### Usage:
 - Any existing code with text file can be replaced with the RotateTextFile constructor and a checker function.
