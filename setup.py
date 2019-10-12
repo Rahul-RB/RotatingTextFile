@@ -30,7 +30,7 @@ setuptools.setup(
     keywords='custom rotating file handler textfile logger',
     author='Rahul R Bharadwaj',
     author_email='rahulbharadwaj033@gmail.com',
-    url='https://github.com/Rahul-RB/rotate-text-file',
+    url='https://github.com/Rahul-RB/RotatingTextFile',
     packages=setuptools.find_packages(exclude=['examples', 'tests']),
     include_package_data=True,
     zip_safe=False,
