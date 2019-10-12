@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="RotatingTextFile",
-    version="0.0.1",
+    version="0.0.2",
     description="A ZERO dependency rotating file handler which rotates when YOU want it to, rather than based on bytes size.",
     long_description=long_description,
     long_description_content_type="text/markdown",
