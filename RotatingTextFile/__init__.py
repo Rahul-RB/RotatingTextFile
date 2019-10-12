@@ -1,7 +1,7 @@
 import os
 import io
 
-class CustomRotatingFileHandler(io.TextIOWrapper):
+class RotatingTextFile(io.TextIOWrapper):
 	def __init__(
 		self,
 		file,
